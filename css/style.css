@@ -128,7 +128,7 @@ footer p{
 
 @media (max-width:500px){
     .header-content .title, .header-content-text{
-        display: none;
+
     }
     .header-content{
         top: 0; 
