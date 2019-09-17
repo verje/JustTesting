@@ -39,8 +39,9 @@ body {
 }
 
 .header-content .logo{
-    height: 100px;
-    width: 100px;
+    height: 140px;
+    width: 145px;
+    border-radius: 10px;
 }
 
 .title{
@@ -134,4 +135,7 @@ footer p{
         top: 0; 
     }
 }
+
+
+
 
