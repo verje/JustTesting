@@ -1,0 +1,13 @@
+.team .float-img {
+    min-width: 50%;
+    width: calc((25em - 100%) * 1000);
+    max-width: 100%;
+    float: left;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+  }
+  .team .float-img img {
+    /* Remove whitespace under images: */
+    vertical-align: middle;
+    width: 100%;
+  }
